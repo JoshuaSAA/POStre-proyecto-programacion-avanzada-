@@ -1,0 +1,20 @@
+.root {
+    -fx-background-color: #fafafa;
+}
+
+.label {
+    -fx-text-fill: #212121;
+    -fx-font-size: 24px;
+    -fx-font-family: "Arial";
+}
+
+.jfx-text-field, .jfx-password-field {
+    -fx-prompt-text-fill: #757575;
+    -fx-font-size: 14px;
+}
+
+.jfx-button {
+    -fx-background-color: #2196F3;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+}
