@@ -1,0 +1,6 @@
+usuario:administrador
+Contraseña:123
+usuario:mesero
+Contraseña:123
+usuario:cajero
+Contraseña:123
